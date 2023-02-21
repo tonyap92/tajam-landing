@@ -1,3 +1,3 @@
 # Tajam
 
-Смотреть >> https://scoregoals.github.io/Tajam/
+Смотреть >> https://tajam-landing.vercel.app/
